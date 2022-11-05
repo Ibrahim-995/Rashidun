@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpic"
+    tools:context=".About">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="This application is an informative application. It's about 'Kholafaye Rashedin'. They were four great man in Arab. For this reason we have to know them.                                                                                        Developed by Ibrahim Khalil Ullah                                                    ID: 173-15-10474                                                                Daffodil International University.   "
+        android:textColor="#c48a17"
+        android:textSize="20dp"
+        >
+
+
+    </TextView>
+
+
+
+</RelativeLayout>

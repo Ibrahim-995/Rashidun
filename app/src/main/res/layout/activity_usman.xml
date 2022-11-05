@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpic"
+    android:orientation="vertical"
+    tools:context=".AbuBakarSiddiq">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হযরত উসমান ইবনে আফফান (রাঃ)"
+            android:textSize="60dp"
+            android:textColor="#c48a17"
+            >
+
+        </TextView>
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="উসমান ইবন আফ্ফান (عثمان بن عفان) (c. ৫৮0 – জুন ১৭ ৬৫৬) ছিলেন ইসলামের তৃতীয় খলীফা। ৬৪৪ থেকে ৬৫৬ খ্রিস্টাব্দ পর্যন্ত খিলাফতে অধিষ্ঠিত ছিলেন। খলিফা হিসেবে তিনি চারজন খুলাফায়ে রাশিদুনের একজন। উসমান আস-সাবিকুনাল আওয়ালুনের (প্রথম পর্বে ইসলাম গ্রহণকারী) অন্তর্ভুক্ত। এছাড়াও তিনি আশারায়ে মুবাশ্শারা‘র একজন এবং সেই ৬ জন সাহাবীর মধ্যে অন্যতম যাদের উপর মুহাম্মদ (সা:) আমরণ সন্তুষ্ট ছিলেন। তাঁকে সাধারণত: হযরত উসমান (রা:) হিসেবে উল্লেখ করা হয়।"
+            android:textColor="#c48a17"
+            android:textSize="25dp"
+            tools:ignore="MissingConstraints">
+
+        </TextView>
+    </ScrollView>
+
+
+</LinearLayout>

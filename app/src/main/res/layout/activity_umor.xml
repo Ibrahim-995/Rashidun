@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpic"
+    android:orientation="vertical"
+    tools:context=".AbuBakarSiddiq">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হযরত উমর ইবনুল খাত্তাব (রাঃ)"
+            android:textSize="60dp"
+            android:textColor="#c48a17"
+            >
+
+        </TextView>
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="উমর ইবনুল খাত্তাব (আরবি: عمر بن الخطاب ‎, জন্ম ৫৭৭ খ্রিষ্টাব্দ – মৃত্যু ৬৪৪ খ্রিষ্টাব্দ) ছিলেন ইসলামের দ্বিতীয় খলিফা এবং প্রধান সাহাবীদের অন্যতম। আবু বকরের মৃত্যুর পর তিনি দ্বিতীয় খলিফা হিসেবে দায়িত্ব নেন। উমর ইসলামি আইনের একজন অভিজ্ঞ আইনজ্ঞ ছিলেন। ন্যায়ের পক্ষাবলম্বন করার কারণে তাকে আল ফারুক (সত্য মিথ্যার পার্থক্যকারী) উপাধি দেয়া হয়। আমিরুল মুমিনিন উপাধিটি সর্বপ্রথম তার ক্ষেত্রে ব্যবহৃত হয়েছে। ইতিহাসে তাকে প্রথম উমর হিসেবেও উল্লেখ করা হয়। নামের মিল থাকার কারণে পরবর্তী কালের উমাইয়া খলিফা উমর ইবনে আবদুল আজিজকে দ্বিতীয় উমর হিসেবে সম্বোধন করা হয়। সাহাবীদের মর্যাদার ক্ষেত্রে সুন্নিদের কাছে আবু বকরের পর উমরের অবস্থান। শিয়া সম্প্রদায় উমরের এই অবস্থান স্বীকার করে না। উমরের শাসনামলে খিলাফতের সীমানা অকল্পনীয়ভাবে বৃদ্ধি পায়। এসময় সাসানীয় সাম্রাজ্য ও বাইজেন্টাইন সাম্রাজ্যের দুইতৃতীয়াংশ মুসলিমদের নিয়ন্ত্রণে আসে। তার শাসনামলে জেরুজালেম মুসলিমদের হস্তগত হয়। তিনি পূর্বের খ্রিষ্টান রীতি বদলে ইহুদিদেরকে জেরুজালেমে বসবাস ও উপাসনা করার সুযোগ দিয়েছিলেন।"
+            android:textColor="#c48a17"
+            android:textSize="25dp"
+            tools:ignore="MissingConstraints">
+
+        </TextView>
+    </ScrollView>
+
+
+</LinearLayout>

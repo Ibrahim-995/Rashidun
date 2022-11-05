@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpic"
+    android:orientation="vertical"
+    tools:context=".AbuBakarSiddiq">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হযরত আবু বকর সিদ্দীক (রাঃ)"
+            android:textSize="60dp"
+            android:textColor="#c48a17"
+            >
+
+        </TextView>
+
+    </LinearLayout>
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="আবু বকর (আরবি: أبو بكر‎) (৫৭৩ খ্রিষ্টাব্দ – ২৩ আগস্ট ৬৩৪ খ্রিষ্টাব্দ) ছিলেন মুহাম্মদ (সা) এর একজন প্রধান সাহাবি, ইসলামের প্রথম খলিফা এবং প্রথম মুসলিমদের মধ্যে অন্যতম। প্রাপ্তবয়স্কদের মধ্যে প্রথম ইসলাম গ্রহণের সম্মান তাকে দেয়া হয়। এছাড়া তিনি রাসুল মুহাম্মদ (সা) এর শ্বশুর ছিলেন। রাসুল মুহাম্মদ (সা) এর মৃত্যুর পর তিনি খলিফা হন এবং মুসলিমদের নেতৃত্ব দেন। মুহাম্মদ (সা) এর প্রতি অতুলনীয় বিশ্বাসের জন্য তাকে “সিদ্দিক” বা বিশ্বস্ত উপাধি প্রদান করা হয়েছে। তাই তাকে আবু বকর সিদ্দিক নামেও সম্বোধন করা হয়।তরুণ বয়সে আবু বকর একজন বণিক হিসেবে জীবিকা নির্বাহ শুরু করেন। তিনি আরব ও প্রতিবেশি মধ্যপ্রাচ্যের অন্যান্য অঞ্চলে ভ্রমণ করেছেন। এর মাধ্যমে তিনি সম্পদশালী হয়ে উঠেন এবং অভিজ্ঞতা অর্জন করেন। তিনি তার গোত্রের একজন নেতা হয়ে উঠেছিলেন। ইয়েমেন থেকে বাণিজ্য শেষে ফেরার পর তিনি মুহাম্মদ (সা) এর ইসলাম প্রচারের সংবাদ পান। এরপর তিনি ইসলাম গ্রহণ করেন। তার ইসলাম গ্রহণ অন্য অনেকের ইসলাম গ্রহণের উৎসাহ যুগিয়েছে। আবু বকরের মেয়ে আয়িশার সাথে মুহাম্মদ (সা) এর বিয়ের ফলে তাদের দুজনের সম্পর্ক আরো ঘনিষ্ঠ হয়।আবু বকর একজন একনিষ্ঠ উপদেষ্টা হিসেবে মুহাম্মদ (সা) এর সহযোগিতা করেছেন। তার জীবদ্দশায় আবু বকর বেশ কয়েকটি যুদ্ধে অংশ নিয়েছিলেন। তাবুকের যুদ্ধে তিনি তার সমস্ত সম্পদ দান করে দেন। হুদায়বিয়ার সন্ধিতে আবু বকর অংশ নিয়েছিলেন এবং তিনি ছিলেন এই চুক্তির অন্যতম স্বাক্ষী।আবু বকরের খিলাফত দুই বছরের কিছু বেশি সময় স্থায়ী হয়েছিল। এরপর তিনি অসুস্থ হয়ে মারা যান। তার খিলাফতকাল দীর্ঘ না হলেও তিনি একজন সফল শাসক ছিলেন। মুহাম্মদ (সা) এর মৃত্যুর পর নবী দাবি করা ব্যক্তিদের তিনি রিদ্দার যুদ্ধে সফলভাবে দমন করেছেন এবং তৎকালীন দুটি পরাশক্তি পারস্য ও বাইজেন্টাইনদের উপর সফল অভিযান পরিচালনা করেছেন। অভিযানের ধারাবাহিকতায় কয়েক দশকে মুসলিম খিলাফত ইতিহাসের সর্ববৃহৎ সাম্রাজ্যের একটিতে পরিণত হয়।"
+        android:textColor="#c48a17"
+        android:textSize="25dp"
+        tools:ignore="MissingConstraints">
+
+    </TextView>
+</ScrollView>
+
+
+</LinearLayout>

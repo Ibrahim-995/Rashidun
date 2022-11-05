@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpic"
+    android:orientation="vertical"
+    tools:context=".AbuBakarSiddiq">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হযরত আলী ইবনে আবী তালিব (রাঃ)"
+            android:textSize="60dp"
+            android:textColor="#c48a17"
+            >
+
+        </TextView>
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="(আরবি: علي بن أبي طالب‎) (জন্ম: খ্রিস্টাব্দ ৬০০ – ৬৬১) ইসলামের চতুর্থ ও শেষ খলিফা। তিনি ছিলেন আবু তালিবের পুত্র। তাঁর মাতার নাম ফাতিমা বিনতে আসাদ । হয়রত আলী কোরায়েশ বংশে জন্মগ্রহণ করেন। শিশু বয়স থেকেই তিনি ইসলামের নবী হযরত মুহাম্মদের (সা:) সঙ্গে লালিত-পালিত হন। ইসলামের ইতিহাসে তিনি পুরুষদের মধ্যে সর্বপ্রথম যিনি হযরত মুহাম্মদের সাথে নামাজ আদায় করতেন। বালকদের মধ্যে তিনি সর্ব প্রথম বালক যিনি নবুয়তের ডাকে সাড়া দিয়ে মাত্র ১০ বছর বয়সে ইসলাম গ্রহণ করেন। তিনি ছিলেন একজন অকুতভয় যোদ্ধা। বদর যুদ্ধে বিশেষ বীরত্তের জন্য মুহাম্মদ তাঁকে “জুলফিকার” নামক তরবারি উপহার দিয়েছিলেন। খাইবারের সুরক্ষিত কামূস দুর্গ জয় করলে মহানবী তাঁকে “আসাদুল্লাহ” বা আল্লাহর সিংহ উপাধি দেন। তিনি খুলাফায়ে রাশেদীন-এর একজন।"
+            android:textColor="#c48a17"
+            android:textSize="25dp"
+            tools:ignore="MissingConstraints">
+
+        </TextView>
+    </ScrollView>
+
+
+</LinearLayout>
